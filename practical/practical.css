@@ -1,0 +1,9 @@
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #30c465 !important;
+  border-color: var(--bs-btn-hover-border-color);
+}
+
+.btn {
+  background-color: red !important;
+}
